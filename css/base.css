@@ -27,7 +27,7 @@ h4 {
 .backimg {
   width: 100%;
   height: 320px;
-  background: url('../img/road-01.jpg') no-repeat;
+  background: url('../img/road-01.jpg') no-repeat center center;
   background-size: cover;
   text-shadow: 1px 1px var(--color-tertiary);
   text-align: center;
