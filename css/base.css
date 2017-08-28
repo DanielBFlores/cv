@@ -65,6 +65,7 @@ h4 {
 .info-ec {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .education {
@@ -94,6 +95,7 @@ h4 {
 .third-section {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .language {
